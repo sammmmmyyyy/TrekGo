@@ -42,8 +42,8 @@ export default function LandingPage() {
             </h1>
             <p className="text-xl text-muted-foreground">
               From discovering destinations to booking accommodations, TrekGo simplifies every aspect of your travel
-              planning experience.
-              Smariddhi Ganguly 23BDS1035,Debeshi Sen 23BDS1055,Aryan Mahavar 23BDS1095
+              planning experience.<br></br>
+              Samriddhi Ganguly 23BDS1035,Debeshi Sen 23BDS1055,Aryan Mahawar 23BDS1095
             </p>
             <div className="flex justify-center gap-4 pt-4">
               <Link href="/auth/signup">
